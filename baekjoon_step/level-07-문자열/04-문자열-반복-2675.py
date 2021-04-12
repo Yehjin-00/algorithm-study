@@ -1,5 +1,12 @@
-## Title: 아스키 코드
-## Level: 7_01
-## Number: 11654
-## Date: 2021.04.12
+## Title: 문자열 반복
+## Level: 7_04
+## Number: 2675
+## Date: 2021.04.13
 
+num = int(input())
+
+for i in range(num):
+	lst = input().split()
+	for char in lst[1]:
+		print(char * int(lst[0]), end="")
+	print()

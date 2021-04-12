@@ -40,7 +40,20 @@
 - 그냥 집합임
 - 차집합 구하기: set(list) - set(list)
 
-## 4. 기타 python 문법
+## 4. string
+
+### string 거꾸로 하기
+
+	a = 'string'
+	print(a[::-1])
+
+### str count 함수 # 5_03
+
+	string.count(text)
+
+- string 안에 들어있는 text 개수를 세어준다.
+
+## 5. 기타 python 문법
 
 ### f-formatting align option # 3_10
 
@@ -49,8 +62,6 @@
 - 빈 자리는 빈공간으로 두고, 오른쪽 정렬을 하되, 총 num자리 공간을 확보
 - 그냥 상수 넣을 때는 {} 필요 없음
 
-### str count 함수 # 5_03
+# 다시 풀어보면 좋을 문제
 
-	string.count(text)
-
-- string 안에 들어있는 text 개수를 세어준다.
+- 7_10 그룹 단어 체커 (1316)
