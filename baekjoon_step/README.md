@@ -42,7 +42,7 @@
 
 ## 4. string
 
-### string 거꾸로 하기
+### string 거꾸로 하기 # 7_07
 
 	a = 'string'
 	print(a[::-1])
