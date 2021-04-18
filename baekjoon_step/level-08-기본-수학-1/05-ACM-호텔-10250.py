@@ -12,3 +12,4 @@ for line in sys.stdin:
 	room = (n-1)//h + 1
 	floor = (n-1)%h + 1
 	print(floor*100+room)
+	
