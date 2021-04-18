@@ -8,7 +8,6 @@
 # a층 b호
 # a층 (b-1)호 + (a-1)층 b호
 
-
 import sys
 
 def living_people(a, b):
