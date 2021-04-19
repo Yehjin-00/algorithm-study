@@ -39,6 +39,7 @@
 ### set 자료형 # 6_02
 - 그냥 집합임
 - 차집합 구하기: set(list) - set(list)
+- 교집합 구하기: set(list) & set(list)
 
 ## 4. string
 
@@ -53,7 +54,13 @@
 
 - string 안에 들어있는 text 개수를 세어준다.
 
-## 5. 기타 python 문법
+## 5. 소수
+
+- [소수(Prime Number) 구하기 효율적 알고리즘 :: 코드자몽](https://myjamong.tistory.com/139)
+- N이 소수인지 판단할 때, N**0.5 이하의 숫자들의 배수만 확인하면 된다.
+- 그 이상의 숫자들의 곱으로는 절대 N을 구하지 못한다.
+
+## 0. 기타 python 문법
 
 ### f-formatting align option # 3_10
 
