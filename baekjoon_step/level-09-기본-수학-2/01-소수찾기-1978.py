@@ -19,3 +19,8 @@ print(len(set(prime_list)&set(input_list)))
 """
 set 교집합: & 기호
 """
+
+"""
+소수 찾기 알고리즘
+https://myjamong.tistory.com/139
+"""
