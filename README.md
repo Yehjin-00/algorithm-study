@@ -1,4 +1,4 @@
-# algorithm_study
+# algorithm-study
 
 ## 1. 백준
 
