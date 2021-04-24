@@ -22,3 +22,18 @@ count = move(int(input()), 1, 3, lst, 0)
 print(count)
 for i in lst:
     print(i)
+
+
+# 조오금 발전시킨 코드
+def move(n, start, end):
+    if n == 1:
+        print(start, end)
+    else:
+        where = 6-start-end
+        move(n-1, start, where)
+        print(start, end)
+        move(n-1, where, end)
+
+num = int(input())
+print(2**num-1)
+move(num, 1, 3)
