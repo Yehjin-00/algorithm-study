@@ -1,7 +1,7 @@
 ## Title: 분해합
 ## Level: 11_02
 ## Number: 2231
-## Date: 2021.04.24
+## Date: 2021.04.25
 
 def get_number(end):	
 	for i in range(end):
