@@ -3,7 +3,7 @@
 ## Number: 1003
 ## Date: 2022.01.23
 
-# 통과
+# memoization
 N = int(input())
 f_dict = {0:(1,0), 1:(0,1)}
 
