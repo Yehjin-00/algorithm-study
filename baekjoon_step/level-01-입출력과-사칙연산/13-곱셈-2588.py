@@ -1,5 +1,5 @@
 ## Title: 곱셈
-## Level: 1_11
+## Level: 1_13
 ## Number: 2588
 ## Date: 2021.04.06
 

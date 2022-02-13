@@ -1,5 +1,5 @@
 ## Title: 나머지
-## Level: 1_10
+## Level: 1_12
 ## Number: 10430
 ## Date: 2021.04.06
 
